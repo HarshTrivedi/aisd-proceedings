@@ -1,0 +1,12 @@
+# TODO: Update.
+- tier: Gold
+  logos:
+    - apple.png
+    - rasa.jpg
+- tier: Silver
+  logos:
+    - honda.png
+    - toshiba.jpeg
+- tier: In cooperation with
+  logos:
+    - boise.png

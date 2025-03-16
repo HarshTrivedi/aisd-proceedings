@@ -1,0 +1,428 @@
+- abstract: Due to the increasing productivity in the scientific community, it is
+    difficult to keep up with the literature without the assistance of AI methods.
+    This paper evaluates various methods for extracting mathematical model variables
+    from epidemiological studies, such as \``infection rate ($\alpha$),'' \``recovery
+    rate ($\gamma$),'' and \``mortality rate ($\mu$).'' Variable extraction appears
+    to be a basic task, but plays a pivotal role in recovering models from scientific
+    literature. Once extracted, we can use these variables for automatic mathematical
+    modeling, simulation, and replication of published results. We also introduce
+    a benchmark dataset comprising manually-annotated variable descriptions and variable
+    values extracted from scientific papers. Our analysis shows that LLM-based solutions
+    perform the best. Despite the incremental benefits of combining rule-based extraction
+    outputs with LLMs, the leap in performance attributed to the transfer-learning
+    and instruction-tuning capabilities of LLMs themselves is far more significant.
+    This investigation demonstrates the potential of LLMs to enhance automatic comprehension
+    of scientific artifacts and for automatic model recovery and simulation.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: Archival regular
+  authors:
+  - dblp_id: https://dblp.org/pid/147/1343
+    emails: chunwei@csail.mit.edu
+    first_name: Chunwei
+    google_scholar_id: https://scholar.google.com/citations?user=Q0LOhAgAAAAJ&hl=en&oi=ao
+    homepage: https://people.csail.mit.edu/chunwei
+    institution: Massachusetts Institute of Technology
+    last_name: Liu
+    name: Chunwei Liu
+    orcid: https://orcid.org/0000-0003-1481-2678
+    username: ~Chunwei_Liu1
+  - dblp_id: https://dblp.org/pid/205/9052
+    emails: enoriega@arizona.edu
+    first_name: Enrique
+    google_scholar_id: https://scholar.google.com/citations?user=s7Kx6H8AAAAJ&hl=en&authuser=1
+    institution: University of Arizona
+    last_name: Noriega-Atala
+    name: Enrique Noriega-Atala
+    orcid: https://orcid.org/0000-0001-7150-2989
+    semantic_scholar_id: https://www.semanticscholar.org/author/Enrique-Noriega-Atala/1404937995
+    username: ~Enrique_Noriega-Atala1
+  - dblp_id: https://dblp.org/pid/242/7424
+    emails: adarsh@arizona.edu
+    first_name: Adarsh
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=fnYTdG0AAAAJ
+    homepage: https://adarsh.cc
+    institution: University of Arizona
+    last_name: Pyarelal
+    name: Adarsh Pyarelal
+    orcid: https://orcid.org/0000-0002-1602-0386
+    semantic_scholar_id: https://www.semanticscholar.org/author/A.-Pyarelal/72038514
+    username: ~Adarsh_Pyarelal1
+  - emails: claytonm@arizona.edu
+    first_name: Clayton
+    homepage: https://ml4ai.github.io/
+    institution: University of Arizona
+    last_name: Morrison
+    middle_name: T
+    name: Clayton T Morrison
+    orcid: https://orcid.org/0000-0002-3606-0078
+    username: ~Clayton_T_Morrison1
+  - emails: michjc@umich.edu
+    first_name: Mike
+    google_scholar_id: https://scholar.google.com.tw/citations?user=r1quzEkAAAAJ
+    homepage: https://people.csail.mit.edu/michjc/
+    institution: Massachusetts Institute of Technology
+    last_name: Cafarella
+    name: Mike Cafarella
+    orcid: https://orcid.org/0000-0001-6122-0590
+    username: ~Mike_Cafarella1
+  decision: Archival
+  file: 2.pdf
+  id: 2
+  openreview_id: lq4F9j7Igh
+  pdf_file: fe69feb255fec92efac85533bebb6fc9b4001d1e.pdf
+  title: Variable Extraction for Model Recovery in Scientific Literature
+- abstract: Automatic keyword extraction from scientific articles is pivotal for organizing
+    scholarly archives, powering semantic search engines, and mapping interdisciplinary
+    research trends. However, existing methods—including statistical and graph-based
+    approaches—struggle to handle domain-specific challenges such as technical terminology,
+    cross-disciplinary ambiguity, and dynamic scientific jargon. This paper presents
+    an empirical comparison of traditional keyword extraction methods (e.g. TextRank
+    and YAKE) with approaches based on Large Language Model. We introduce a novel
+    evaluation framework that combines fuzzy semantic matching based on Levenshtein
+    Distance with exact-match metrics (F1, precision, recall) to address inconsistencies
+    in keyword normalization across scientific corpora. Through an extensive ablation
+    study across nine different LLMs, we analyze their performance and associated
+    costs. Our findings reveal that LLM-based methods consistently achieve superior
+    precision and relevance compared to traditional approaches. This performance advantage
+    suggests significant potential for improving scientific search systems and information
+    retrieval in academic contexts.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: Archival regular
+  authors:
+  - emails: nacef.ben\_mansour@etu.sorbonne-universite.fr
+    first_name: Nacef
+    last_name: Mansour
+    middle_name: Ben
+    name: Nacef Ben Mansour
+    username: ~Nacef_Ben_Mansour1
+  - dblp_id: https://dblp.org/pid/223/4288.html
+    emails: hamed.rahimi@sorbonne-universite.fr
+    first_name: Hamed
+    google_scholar_id: https://scholar.google.com/citations?user=OEcBSosAAAAJ&hl=en
+    homepage: https://www.hamedrahimi.fr
+    last_name: Rahimi
+    name: Hamed Rahimi
+    orcid: https://orcid.org/0000-0001-9179-8625
+    username: ~Hamed_Rahimi2
+  - emails: motasem.alrahabi@gmail.com
+    first_name: Motasem
+    google_scholar_id: https://scholar.google.fr/citations?user=tzCxc40AAAAJ&hl=fr
+    homepage: https://obtic.sorbonne-universite.fr/alrahabi/
+    last_name: Alrahabi
+    name: Motasem Alrahabi
+    orcid: https://orcid.org/0000-0001-5478-4283
+    username: ~Motasem_Alrahabi1
+  decision: Archival
+  file: 8.pdf
+  id: 8
+  openreview_id: iana5BzXR9
+  pdf_file: d05631cacf4fa2268fd9f340193c2ac4d2512b7f.pdf
+  title: How Well Do Large Language Models Extract Keywords? A Systematic Evaluation
+    on Scientific Corpora
+- abstract: Scientific discovery is an iterative process that requires transparent
+    reasoning, empirical validation, and structured problem-solving. This work presents
+    a novel human-in-the-loop AI system that leverages case-based reasoning to facilitate
+    structured scientific inquiry. The system is designed to be note-centric, using
+    the Obsidian note-taking application as the primary interface where all components,
+    including user inputs, system cases, and tool specifications, are represented
+    as plain-text notes. This approach ensures that every step of the research process
+    is visible, editable, and revisable by both the user and the AI. The system dynamically
+    retrieves relevant cases from past experience, refines hypotheses, and structures
+    research workflows in a transparent and iterative manner. The methodology is demonstrated
+    through a case study investigating the role of TLR4 in sepsis, illustrating how
+    the system supports problem framing, literature review, hypothesis formulation,
+    and empirical validation. The results highlight the potential of AI-assisted scientific
+    workflows to enhance research efficiency while preserving human oversight and
+    interpretability.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: Archival regular
+  authors:
+  - emails: craigdou@med.umich.edu
+    first_name: Douglas
+    google_scholar_id: https://scholar.google.com/citations?user=XurmbO8AAAAJ&hl=en
+    institution: University of Michigan - Ann Arbor
+    last_name: Craig
+    middle_name: B
+    name: Douglas B Craig
+    orcid: https://orcid.org/0000-0001-7917-2793
+    username: ~Douglas_B_Craig1
+  decision: Archival
+  file: 10.pdf
+  id: 10
+  openreview_id: aBBmbqyw20
+  pdf_file: 891e36ec7eea45b5bd0605c875285c42dc7a6a65.pdf
+  title: A Human-LLM Note-Taking System with Case-Based Reasoning as Framework for
+    Scientific Discovery
+- abstract: We present components of an AI-assisted academic writing system including
+    citation recommendation and introduction writing. The system recommends citations
+    by considering the user’s current document context to provide relevant suggestions.
+    It generates introductions in a structured fashion, situating the contributions
+    of the research relative to prior work. We demonstrate the effectiveness of the
+    components through quantitative evaluations. Finally, the paper presents qualitative
+    research exploring how researchers incorporate citations into their writing workflows.
+    Our findings indicate that there is demand for precise AI-assisted writing systems
+    and simple, effective methods for meeting those needs.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: Archival regular
+  authors:
+  - dblp_id: https://dblp.org/pid/10/2450
+    emails: dliebling@google.com
+    first_name: Daniel
+    google_scholar_id: https://scholar.google.com/citations?user=6mERkvAAAAAJ&hl=en&oi=ao
+    homepage: https://liebling.org
+    institution: Google
+    last_name: Liebling
+    middle_name: J.
+    name: Daniel J. Liebling
+    orcid: https://orcid.org/0000-0002-2643-5657
+    semantic_scholar_id: https://www.semanticscholar.org/author/Daniel-J.-Liebling/1724850
+    username: ~Daniel_J._Liebling1
+  - dblp_id: https://dblp.org/pid/271/8198
+    emails: mgrunde@cs.washington.edu
+    first_name: Madeleine
+    google_scholar_id: https://scholar.google.com/citations?user=wzqKsd4AAAAJ&hl=en
+    homepage: https://madeleinegrunde.github.io/
+    institution: University of Washington
+    last_name: Grunde-McLaughlin
+    name: Madeleine Grunde-McLaughlin
+    username: ~Madeleine_Grunde-McLaughlin1
+  - dblp_id: https://dblp.org/pid/21/11044
+    emails: vsubhashini@google.com
+    first_name: Subhashini
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=TmWYBeEAAAAJ
+    homepage: https://vsubhashini.github.io
+    institution: Google
+    last_name: Venugopalan
+    name: Subhashini Venugopalan
+    orcid: https://orcid.org/0000-0003-3729-8456
+    username: ~Subhashini_Venugopalan2
+  - emails: ianjlang@google.com
+    first_name: Ian
+    institution: Google
+    last_name: Lang
+    name: Ian Lang
+    username: ~Ian_Lang1
+  - emails: malcolmkane@google.com
+    first_name: Malcolm
+    homepage: https://www.malcolmkane.com
+    institution: Google
+    last_name: Kane
+    name: Malcolm Kane
+    username: ~Malcolm_Kane1
+  - emails: brenner@seas.harvard.edu
+    first_name: Michael
+    homepage: https://brennergroup.seas.harvard.edu
+    institution: Harvard University
+    last_name: Brenner
+    name: Michael Brenner
+    username: ~Michael_Brenner1
+  decision: Archival
+  file: 17.pdf
+  id: 17
+  openreview_id: EyAJTv6nk5
+  pdf_file: 275246592f4c7d46a4e7f35a7d651cfbf40f9e3d.pdf
+  title: Towards AI-assisted Academic Writing
+- abstract: Recent studies have evaluated creativity, where novelty is an important
+    aspect, of large language models (LLMs) primarily from a semantic perspective,
+    using benchmarks from cognitive science. However, assessing the novelty in scholarly
+    publications, a critical facet of evaluating LLMs as scientific discovery assistants,
+    remains underexplored, despite its potential to accelerate research cycles and
+    prioritize high-impact contributions in scientific workflows. We introduce SchNovel,
+    a benchmark to evaluate LLMs’ ability to assess novelty in scholarly papers, a
+    task central to streamlining discovery pipeline. SchNovel consists of 15000 pairs
+    of papers across six fields sampled from the arXiv dataset with publication dates
+    spanning 2 to 10 years apart. In each pair, the more recently published paper
+    is assumed to be more novel. Additionally, we propose RAG-Novelty, a retrieval-augmented
+    method that mirrors human peer review by grounding novelty assessment in retrieved
+    context. Extensive experiments provide insights into the capabilities of different
+    LLMs to assess novelty and demonstrate that RAG-Novelty outperforms recent baseline
+    models highlight LLMs’ promise as tools for automating novelty detection in scientific
+    workflows.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: Archival regular
+  authors:
+  - emails: enlin@scu.edu
+    first_name: Ethan
+    homepage: https://portfolio-pearl-beta-42.vercel.app
+    last_name: Lin
+    name: Ethan Lin
+    username: ~Ethan_Lin3
+  - dblp_id: https://dblp.org/pid/193/1602-1
+    emails: zpeng@scu.edu
+    first_name: Zhiyuan
+    google_scholar_id: https://scholar.google.com/citations?user=aXRHp5UAAAAJ&hl=zh-TW
+    homepage: https://www.zhiyuanpeng.me/
+    last_name: Peng
+    name: Zhiyuan Peng
+    orcid: https://orcid.org/0000-0002-9870-4422
+    semantic_scholar_id: https://www.semanticscholar.org/author/Zhiyuan-Peng/2113952662
+    username: ~Zhiyuan_Peng1
+  - dblp_id: https://dblp.org/pid/96/361-8
+    emails: yfang@scu.edu
+    first_name: Yi
+    google_scholar_id: https://scholar.google.com/citations?user=H9RTiHoAAAAJ&hl=en&authuser=1
+    homepage: https://www.cse.scu.edu/~yfang/
+    institution: Santa Clara University
+    last_name: Fang
+    name: Yi Fang
+    orcid: https://orcid.org/0000-0001-6572-4315
+    username: ~Yi_Fang7
+  decision: Archival
+  file: 18.pdf
+  id: 18
+  openreview_id: ZnNGo5NX2y
+  pdf_file: 5b939c68035645ab9b80ecdfb9b32491ea3299d2.pdf
+  title: Evaluating and Enhancing Large Language Models for Novelty Assessment in
+    Scholarly Publications
+- abstract: 'Large Language Models (LLMs) are increasingly
+
+    being leveraged for generating and
+
+    translating scientific computer codes by both
+
+    domain-experts and non-domain experts. Fortran
+
+    has served as one of the go to programming
+
+    languages in legacy high-performance computing
+
+    (HPC) for scientific discoveries. Despite
+
+    growing adoption, LLM-based code translation
+
+    of legacy code-bases has not been thoroughly
+
+    assessed or quantified for its usability.
+
+    Here, we studied the applicability of LLMbased
+
+    translation of Fortran to C++ as a step towards
+
+    building an agentic-workflow using openweight
+
+    LLMs on two different computational
+
+    platforms. We statistically quantified the compilation
+
+    accuracy of the translated C++ codes,
+
+    measured the similarity of the LLM translated
+
+    code to the human translated C++ code, and
+
+    statistically quantified the output similarity of
+
+    the Fortran to C++ translation.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: Archival regular
+  authors:
+  - emails: ranasinghe@lanl.gov
+    first_name: Nishath
+    google_scholar_id: https://scholar.google.com/citations?user=5yPjhhcAAAAJ&hl=en&oi=ao
+    homepage: https://lanlexperts.elsevierpure.com/en/persons/nishath-rajiv-ranasinghe
+    last_name: Ranasinghe
+    middle_name: Rajiv
+    name: Nishath Rajiv Ranasinghe
+    orcid: https://orcid.org/0000-0003-3115-1226
+    username: ~Nishath_Rajiv_Ranasinghe1
+  - dblp_id: https://dblp.org/pid/147/5249.html
+    emails: smjones@lanl.gov
+    first_name: Shawn
+    google_scholar_id: https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en
+    homepage: https://www.shawnmjones.org/
+    institution: Los Alamos National Laboratory
+    last_name: Jones
+    middle_name: M.
+    name: Shawn M. Jones
+    orcid: https://orcid.org/0000-0002-4372-870X
+    username: ~Shawn_M._Jones2
+  - emails: michal@lanl.gov
+    first_name: Michal
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=OYuTMj8AAAAJ&view_op=list_works&gmla=AHoSzlWct0I1Zh93zmMgW2nvzrQdgKJ0PE0GetLivMJKjNH6AqsCvGXViZ2wOyv6o62CBWZRz1LgJf6e6PT9J8ZE
+    institution: Los Alamos National Laboratory
+    last_name: Kucer
+    name: Michal Kucer
+    username: ~Michal_Kucer1
+  - emails: ayan@lanl.gov
+    first_name: Ayan
+    homepage: https://www.ayanbiswas.net
+    institution: Los Alamos National Laboratory
+    last_name: Biswas
+    name: Ayan Biswas
+    username: ~Ayan_Biswas2
+  - emails: omalled@lanl.gov
+    first_name: Daniel
+    google_scholar_id: https://scholar.google.com/citations?user=rPzCVjEAAAAJ&hl=en
+    homepage: https://omalled.com
+    institution: Los Alamos National Laboratory
+    last_name: O'Malley
+    name: Daniel O'Malley
+    username: ~Daniel_O'Malley1
+  - emails: amost@lanl.gov
+    first_name: Alexander
+    google_scholar_id: https://scholar.google.com/citations?user=vjtrcL8AAAAJ&hl=en
+    last_name: Most
+    name: Alexander Most
+    username: ~Alexander_Most1
+  - emails: slwanna@utexas.edu
+    first_name: Selma
+    homepage: https://robotics.me.utexas.edu/
+    last_name: Wanna
+    middle_name: Liliane
+    name: Selma Liliane Wanna
+    semantic_scholar_id: https://www.semanticscholar.org/author/148161532
+    username: ~Selma_Liliane_Wanna1
+  - emails: ajaysreekumar@arizona.edu
+    first_name: Ajay
+    last_name: Sreekumar
+    name: Ajay Sreekumar
+    username: ~Ajay_Sreekumar1
+  decision: Archival
+  file: 21.pdf
+  id: 21
+  openreview_id: mYXlAVMvEa
+  pdf_file: b9b033ec515d7f0c6f608fbd6d6491bbbde1f636.pdf
+  title: 'LLM-Assisted Translation of Legacy FORTRAN Codes to C++: A Cross-Platform
+    Study'
+- abstract: The study of food pairing has evolved beyond subjective expertise with
+    the advent of machine learning. This paper presents FlavorDiffusion, a novel framework
+    leveraging diffusion models to predict food-chemical interactions and ingredient
+    pairings without relying on chromatography. By integrating graph-based embeddings,
+    diffusion processes, and chemical property encoding, FlavorDiffusion addresses
+    data imbalances and enhances clustering quality. Using a heterogeneous graph derived
+    from datasets like Recipe1M and FlavorDB, our model demonstrates superior performance
+    in reconstructing ingredient-ingredient relationships. The addition of a Chemical
+    Structure Prediction (CSP) layer further refines the embedding space, achieving
+    state-of-the-art NMI scores and enabling meaningful discovery of novel ingredient
+    combinations. The proposed framework represents a significant step forward in
+    computational gastronomy, offering scalable, interpretable, and chemically informed
+    solutions for food science.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: Archival regular
+  authors:
+  - emails: jpseo99@snu.ac.kr
+    first_name: Junpyo
+    homepage: https://velog.io/@jpseo99
+    last_name: Seo
+    name: Junpyo Seo
+    username: ~Junpyo_Seo3
+  decision: Archival
+  file: 24.pdf
+  id: 24
+  openreview_id: LuIjcJFrk4
+  pdf_file: 1f7bdeb931f0275adf7590c77ca20b75e9440928.pdf
+  title: 'FlavorDiffusion: Modeling Food-Chemical Interactions with Diffusion'

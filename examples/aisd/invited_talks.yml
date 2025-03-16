@@ -1,0 +1,35 @@
+- title: Invited 1
+  abstract_file: invited1.tex
+  speaker_name: Jure Leskovec
+  institution: Stanford University
+  bio_file: invited1_bio.tex
+  date: 2025-07-01 18:30:00
+  location: Room 1
+  chair: Chair 1
+
+- title: Invited 2
+  abstract_file: invited2.tex
+  speaker_name: Heng Ji
+  institution: University of Illinois Urbana-Champaign
+  bio_file: invited2_bio.tex
+  date: 2025-07-02 18:30:00
+  location: Room 2
+  chair: Chair 2
+
+- title: Invited 3
+  abstract_file: invited3.tex
+  speaker_name: Peter Clark
+  institution: Allen Institute for Artificial Intelligence
+  bio_file: invited3_bio.tex
+  date: 2025-07-03 18:30:00
+  location: Room 3
+  chair: Chair 3
+
+- title: Invited 4
+  abstract_file: invited4.tex
+  speaker_name: Marinka Zitnik
+  institution: Harvard University
+  bio_file: invited4_bio.tex
+  date: 2025-07-04 18:30:00
+  location: Room 4
+  chair: Chair 4

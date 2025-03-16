@@ -1,0 +1,59 @@
+- end_time: 2025-05-03 09:00:00
+  start_time: 2025-05-03 08:55:00
+  title: Opening Remarks
+
+- end_time: 2025-05-03 09:45:00
+  start_time: 2025-05-03 09:00:00
+  title: Invited Speaker Talk 1
+
+- end_time: 2025-05-03 10:30:00
+  start_time: 2025-05-03 09:45:00
+  title: Invited Speaker Talk 2
+
+- end_time: 2025-05-03 11:00:00
+  start_time: 2025-05-03 10:30:00
+  title: Break 1
+
+- end_time: 2025-05-03 11:45:00
+  start_time: 2025-05-03 11:00:00
+  title: Invited Speaker - Talk 3
+
+- end_time: 2025-05-03 12:00:00
+  start_time: 2025-05-03 11:45:00
+  title: Oral Presentation TBD
+
+- end_time: 2025-05-03 12:15:00
+  start_time: 2025-05-03 12:00:00
+  title: Oral Presentation TBD
+
+- end_time: 2025-05-03 12:30:00
+  start_time: 2025-05-03 12:15:00
+  title: Oral Presentation TBD
+
+- end_time: 2025-05-03 14:00:00
+  start_time: 2025-05-03 12:30:00
+  title: Lunch Break
+
+- end_time: 2025-05-03 14:45:00
+  start_time: 2025-05-03 14:00:00
+  title: Invited Speaker - TBD
+
+- end_time: 2025-05-03 15:00:00
+  start_time: 2025-05-03 14:45:00
+  title: Oral Presentation TBD
+
+- end_time: 2025-05-03 15:15:00
+  start_time: 2025-05-03 15:00:00
+  title: Oral Presentation TBD
+
+- end_time: 2025-05-03 15:30:00
+  start_time: 2025-05-03 15:15:00
+  title: Oral Presentation TBD
+
+- end_time: 2025-05-03 16:00:00
+  start_time: 2025-05-03 15:30:00
+  title: Break 2
+
+- end_time: 2025-05-03 17:00:00
+  start_time: 2025-05-03 16:00:00
+  title: In-Person Poster Session

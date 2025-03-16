@@ -1,0 +1,16 @@
+book_title: "Proceedings of the 1st Workshop on AI and Scientific Discovery: Directions and Opportunities"
+event_name: Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics
+volume_name: main
+cover_subtitle: Proceedings of the Workshop
+anthology_venue_id: AISD
+start_date: 2025-05-03
+end_date: 2025-05-03
+isbn: TODO
+location: Albuquerque, New Mexico, USA
+editors:
+  - first_name: TODO
+    last_name: TODO
+  - first_name: TODO
+    last_name: TODO
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 21th Annual Meeting of the\\ Special Interest Group on Discourse and Dialogue

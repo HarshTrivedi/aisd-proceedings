@@ -1,0 +1,409 @@
+- entries:
+  - dblp_id: https://dblp.org/pid/78/6527
+    emails: bhavanad@allenai.org
+    first_name: Bhavana
+    google_scholar_id: https://scholar.google.com/citations?user=9e0uFr4AAAAJ
+    homepage: https://bhavanadalvi.github.io/
+    institution: Allen Institute for Artificial Intelligence
+    last_name: Dalvi Mishra
+    name: Bhavana Dalvi Mishra
+    semantic_scholar_id: https://www.semanticscholar.org/author/Bhavana-Dalvi/40135250
+    username: ~Bhavana_Dalvi_Mishra2
+  - dblp_id: https://dblp.org/pid/57/5363
+    emails: ddowney@eecs.northwestern.edu
+    first_name: Doug
+    google_scholar_id: https://scholar.google.com/citations?user=E8evkcQAAAAJ&hl=en
+    homepage: https://www.cs.northwestern.edu/~ddowney/
+    institution: Allen Institute for Artificial Intelligence and Northwestern University
+    last_name: Downey
+    name: Doug Downey
+    semantic_scholar_id: https://www.semanticscholar.org/author/Doug-Downey/145612610
+    username: ~Doug_Downey1
+  - dblp_id: https://dblp.org/pid/27/5588
+    emails: tomh@allenai.org
+    first_name: Tom
+    institution: Allen Institute for Artificial Intelligence and Hebrew University,
+      Hebrew University of Jerusalem
+    last_name: Hope
+    name: Tom Hope
+    username: ~Tom_Hope2
+  - dblp_id: https://dblp.org/pid/h/EricHorvitz
+    emails: horvitz@microsoft.com
+    first_name: Eric
+    google_scholar_id: https://scholar.google.com/citations?user=V4OPEAgAAAAJ&hl
+    homepage: http://erichorvitz.com
+    last_name: Horvitz
+    name: Eric Horvitz
+    username: ~Eric_Horvitz1
+  - dblp_id: https://dblp.org/pid/72/5962
+    emails: pajansen@email.arizona.edu
+    first_name: Peter
+    google_scholar_id: https://scholar.google.com/citations?user=wc1Hbl8AAAAJ&hl=en
+    homepage: http://www.cognitiveai.org
+    institution: University of Arizona and Allen Institute for Artificial Intelligence
+    last_name: Jansen
+    name: Peter Jansen
+    semantic_scholar_id: https://www.semanticscholar.org/author/144949918
+    username: ~Peter_Jansen1
+  - dblp_id: https://dblp.org/pid/83/8117
+    emails: tushar.v.khot@gmail.com
+    first_name: Tushar
+    google_scholar_id: https://scholar.google.com/citations?user=_8mkIjgAAAAJ&hl=en&oi=ao
+    homepage: https://allenai.org/team/tushark/
+    institution: Allen Institute for Artificial Intelligence
+    last_name: Khot
+    name: Tushar Khot
+    semantic_scholar_id: https://www.semanticscholar.org/author/Tushar-Khot/2236429
+    username: ~Tushar_Khot1
+  - dblp_id: https://dblp.org/pid/138/6177
+    emails: bodhisattwam@allenai.org
+    first_name: Bodhisattwa Prasad
+    google_scholar_id: https://scholar.google.com/citations?user=cEM1a5gAAAAJ&hl=en
+    homepage: https://www.majumderb.com/
+    institution: Allen Institute for Artificial Intelligence
+    last_name: Majumder
+    name: Bodhisattwa Prasad Majumder
+    semantic_scholar_id: https://www.semanticscholar.org/author/Bodhisattwa-Prasad-Majumder/3165738
+    username: ~Bodhisattwa_Prasad_Majumder1
+  - dblp_id: https://dblp.org/pid/95/9586
+    emails: hjtrivedi@cs.stonybrook.edu
+    first_name: Harsh
+    google_scholar_id: https://scholar.google.com/citations?user=2hF4FJEAAAAJ
+    homepage: http://harshtrivedi.me/
+    institution: State University of New York, Stony Brook
+    last_name: Trivedi
+    name: Harsh Trivedi
+    semantic_scholar_id: https://www.semanticscholar.org/author/H.-Trivedi/6365809
+    username: ~Harsh_Trivedi1
+  role: Program Chairs
+- entries:
+  - dblp_id: https://dblp.org/pid/72/5962
+    emails: pajansen@email.arizona.edu
+    first_name: Peter
+    google_scholar_id: https://scholar.google.com/citations?user=wc1Hbl8AAAAJ&hl=en
+    homepage: http://www.cognitiveai.org
+    institution: University of Arizona and Allen Institute for Artificial Intelligence
+    last_name: Jansen
+    name: Peter Jansen
+    semantic_scholar_id: https://www.semanticscholar.org/author/144949918
+    username: ~Peter_Jansen1
+  role: Senior Area Chairs
+- entries:
+  - dblp_id: https://dblp.org/pid/72/5962
+    emails: pajansen@email.arizona.edu
+    first_name: Peter
+    google_scholar_id: https://scholar.google.com/citations?user=wc1Hbl8AAAAJ&hl=en
+    homepage: http://www.cognitiveai.org
+    institution: University of Arizona and Allen Institute for Artificial Intelligence
+    last_name: Jansen
+    name: Peter Jansen
+    semantic_scholar_id: https://www.semanticscholar.org/author/144949918
+    username: ~Peter_Jansen1
+  role: Area Chairs
+- entries:
+  - dblp_id: https://dblp.org/pid/86/1950-1
+    emails: sanyal.soumya8@gmail.com
+    first_name: Soumya
+    google_scholar_id: https://scholar.google.co.in/citations?user=KvaizyQAAAAJ&hl=en
+    homepage: https://soumyasanyal.github.io/
+    last_name: Sanyal
+    name: Soumya Sanyal
+    semantic_scholar_id: https://www.semanticscholar.org/author/Soumya-Sanyal/3313909
+    username: ~Soumya_Sanyal1
+  - dblp_id: https://dblp.org/pid/95/9586
+    emails: hjtrivedi@cs.stonybrook.edu
+    first_name: Harsh
+    google_scholar_id: https://scholar.google.com/citations?user=2hF4FJEAAAAJ
+    homepage: http://harshtrivedi.me/
+    institution: State University of New York, Stony Brook
+    last_name: Trivedi
+    name: Harsh Trivedi
+    semantic_scholar_id: https://www.semanticscholar.org/author/H.-Trivedi/6365809
+    username: ~Harsh_Trivedi1
+  - dblp_id: https://dblp.org/pid/89/5992-39
+    emails: harry.zhang@drexel.edu
+    first_name: Li
+    google_scholar_id: https://scholar.google.com/citations?user=_VLzlBIAAAAJ
+    homepage: https://zharry29.github.io/
+    institution: Drexel University
+    last_name: Zhang
+    name: Li Zhang
+    semantic_scholar_id: https://www.semanticscholar.org/author/72436283
+    username: ~Li_Zhang22
+  role: Declined Reviewers
+  type: name_block
+- entries:
+  - dblp_id: https://dblp.org/pid/262/6003
+    emails: jinheon.baek@kaist.ac.kr
+    first_name: Jinheon
+    google_scholar_id: https://scholar.google.com/citations?user=U1FHaSUAAAAJ&hl=ko
+    homepage: https://jinheonbaek.github.io
+    institution: Korea Advanced Institute of Science & Technology
+    last_name: Baek
+    name: Jinheon Baek
+    orcid: https://orcid.org/0000-0002-9367-560X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jinheon-Baek/90765684
+    username: ~Jinheon_Baek1
+  - emails: basu.chandrayee@gmail.com
+    first_name: Chandrayee
+    google_scholar_id: https://scholar.google.com/citations?user=wORhZLMAAAAJ&hl=en
+    homepage: https://sites.google.com/view/chandrayee-basu-phd/about
+    last_name: Basu
+    name: Chandrayee Basu
+    semantic_scholar_id: https://www.semanticscholar.org/author/Chandrayee-Basu/7843744
+    username: ~Chandrayee_Basu1
+  - emails: sree.srinu38@gmail.com
+    first_name: Srinivasarao
+    google_scholar_id: https://scholar.google.com/citations?user=8K5limwAAAAJ&hl=en
+    homepage: https://srinidaruna.com/
+    institution: Amazon
+    last_name: Daruna
+    name: Srinivasarao Daruna
+    orcid: https://orcid.org/0009-0004-8758-6442
+    username: ~Srinivasarao_Daruna1
+  - emails: lior.forer@mail.huji.ac.il
+    first_name: Lior
+    last_name: Forer
+    name: Lior Forer
+    username: ~Lior_Forer1
+  - dblp_id: https://dblp.org/pid/302/4731
+    emails: shivanshugupta1995@gmail.com
+    first_name: Shivanshu
+    google_scholar_id: https://scholar.google.com/citations?user=OtlUDs8AAAAJ&hl=en
+    homepage: https://shivanshu-gupta.github.io
+    institution: University of California, Irvine
+    last_name: Gupta
+    name: Shivanshu Gupta
+    semantic_scholar_id: https://www.semanticscholar.org/author/Shivanshu-Gupta/1698760333
+    username: ~Shivanshu_Gupta2
+  - dblp_id: https://dblp.org/pid/48/4618
+    emails: naoya.inoue.lab@gmail.com
+    first_name: Naoya
+    google_scholar_id: https://scholar.google.co.jp/citations?hl=en&user=lvvDz-IAAAAJ
+    homepage: https://naoya-i.info/
+    institution: RIKEN and Japan Advanced Institute of Science and Technology
+    last_name: Inoue
+    name: Naoya Inoue
+    semantic_scholar_id: https://www.semanticscholar.org/author/Naoya-Inoue/32427616
+    username: ~Naoya_Inoue1
+  - dblp_id: https://dblp.org/pid/94/11232
+    emails: urikacid@gmail.com
+    first_name: Uri
+    google_scholar_id: https://scholar.google.com/citations?user=DkQ5W4wAAAAJ&hl=en
+    homepage: https://katzurik.github.io/
+    institution: Bar-Ilan University
+    last_name: Katz
+    name: Uri Katz
+    semantic_scholar_id: https://www.semanticscholar.org/author/Uri-Katz/2066175565
+    username: ~Uri_Katz1
+  - dblp_id: https://dblp.org/pid/294/7594
+    emails: arl122@pitt.edu
+    first_name: Arun Balajiee
+    google_scholar_id: https://scholar.google.com/citations?user=MqjEyoIAAAAJ&hl=en
+    homepage: https://a2un.github.io
+    institution: University of Pittsburgh
+    last_name: Lekshmi Narayanan
+    name: Arun Balajiee Lekshmi Narayanan
+    orcid: https://orcid.org/0000-0002-7735-5008
+    semantic_scholar_id: https://www.semanticscholar.org/author/2111957014
+    username: ~Arun_Balajiee_Lekshmi_Narayanan1
+  - dblp_id: https://dblp.org/pid/10/2450
+    emails: dliebling@google.com
+    first_name: Daniel
+    google_scholar_id: https://scholar.google.com/citations?user=6mERkvAAAAAJ&hl=en&oi=ao
+    homepage: https://liebling.org
+    institution: Google
+    last_name: Liebling
+    middle_name: J.
+    name: Daniel J. Liebling
+    orcid: https://orcid.org/0000-0002-2643-5657
+    semantic_scholar_id: https://www.semanticscholar.org/author/Daniel-J.-Liebling/1724850
+    username: ~Daniel_J._Liebling1
+  - dblp_id: https://dblp.org/pid/205/9052
+    emails: enoriega@arizona.edu
+    first_name: Enrique
+    google_scholar_id: https://scholar.google.com/citations?user=s7Kx6H8AAAAJ&hl=en&authuser=1
+    institution: University of Arizona
+    last_name: Noriega-Atala
+    name: Enrique Noriega-Atala
+    orcid: https://orcid.org/0000-0001-7150-2989
+    semantic_scholar_id: https://www.semanticscholar.org/author/Enrique-Noriega-Atala/1404937995
+    username: ~Enrique_Noriega-Atala1
+  - dblp_id: https://dblp.org/pid/86/1950-1
+    emails: sanyal.soumya8@gmail.com
+    first_name: Soumya
+    google_scholar_id: https://scholar.google.co.in/citations?user=KvaizyQAAAAJ&hl=en
+    homepage: https://soumyasanyal.github.io/
+    last_name: Sanyal
+    name: Soumya Sanyal
+    semantic_scholar_id: https://www.semanticscholar.org/author/Soumya-Sanyal/3313909
+    username: ~Soumya_Sanyal1
+  - dblp_id: https://dblp.org/pid/311/5080.html
+    emails: zaynesprague@utexas.edu
+    first_name: Zayne
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=abBYW0oAAAAJ
+    homepage: https://zaynesprague.com/
+    institution: University of Texas at Austin
+    last_name: Sprague
+    middle_name: Rea
+    name: Zayne Rea Sprague
+    username: ~Zayne_Rea_Sprague1
+  - dblp_id: https://dblp.org/pid/95/9586
+    emails: hjtrivedi@cs.stonybrook.edu
+    first_name: Harsh
+    google_scholar_id: https://scholar.google.com/citations?user=2hF4FJEAAAAJ
+    homepage: http://harshtrivedi.me/
+    institution: State University of New York, Stony Brook
+    last_name: Trivedi
+    name: Harsh Trivedi
+    semantic_scholar_id: https://www.semanticscholar.org/author/H.-Trivedi/6365809
+    username: ~Harsh_Trivedi1
+  - emails: vnhh@email.arizona.edu
+    first_name: Hoang
+    google_scholar_id: https://scholar.google.com/citations?user=-ipwYRsAAAAJ&hl=en
+    homepage: https://vanh17.github.io/
+    last_name: Van
+    name: Hoang Van
+    semantic_scholar_id: https://www.semanticscholar.org/author/2064662741
+    username: ~Hoang_Van1
+  - dblp_id: https://dblp.org/pid/313/4078
+    emails: rosni@ifi.uzh.ch
+    first_name: Rosni
+    google_scholar_id: https://scholar.google.com/citations?user=eR9zhxkAAAAJ&hl=en
+    homepage: https://rosnikv.github.io/
+    last_name: Vasu
+    name: Rosni Vasu
+    username: ~Rosni_Vasu1
+  - dblp_id: https://dblp.org/pid/154/2770
+    emails: aw588@cornell.edu
+    first_name: Anne
+    google_scholar_id: https://scholar.google.com/citations?user=ATaJDVEAAAAJ&hl
+    institution: Cornell University
+    last_name: Wu
+    name: Anne Wu
+    semantic_scholar_id: https://www.semanticscholar.org/author/Anne-Wu/2075410398
+    username: ~Anne_Wu1
+  - dblp_id: https://dblp.org/pid/89/5992-39
+    emails: harry.zhang@drexel.edu
+    first_name: Li
+    google_scholar_id: https://scholar.google.com/citations?user=_VLzlBIAAAAJ
+    homepage: https://zharry29.github.io/
+    institution: Drexel University
+    last_name: Zhang
+    name: Li Zhang
+    semantic_scholar_id: https://www.semanticscholar.org/author/72436283
+    username: ~Li_Zhang22
+  role: Invited Reviewers
+  type: name_block
+- entries:
+  - dblp_id: https://dblp.org/pid/262/6003
+    emails: jinheon.baek@kaist.ac.kr
+    first_name: Jinheon
+    google_scholar_id: https://scholar.google.com/citations?user=U1FHaSUAAAAJ&hl=ko
+    homepage: https://jinheonbaek.github.io
+    institution: Korea Advanced Institute of Science & Technology
+    last_name: Baek
+    name: Jinheon Baek
+    orcid: https://orcid.org/0000-0002-9367-560X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jinheon-Baek/90765684
+    username: ~Jinheon_Baek1
+  - emails: basu.chandrayee@gmail.com
+    first_name: Chandrayee
+    google_scholar_id: https://scholar.google.com/citations?user=wORhZLMAAAAJ&hl=en
+    homepage: https://sites.google.com/view/chandrayee-basu-phd/about
+    last_name: Basu
+    name: Chandrayee Basu
+    semantic_scholar_id: https://www.semanticscholar.org/author/Chandrayee-Basu/7843744
+    username: ~Chandrayee_Basu1
+  - emails: sree.srinu38@gmail.com
+    first_name: Srinivasarao
+    google_scholar_id: https://scholar.google.com/citations?user=8K5limwAAAAJ&hl=en
+    homepage: https://srinidaruna.com/
+    institution: Amazon
+    last_name: Daruna
+    name: Srinivasarao Daruna
+    orcid: https://orcid.org/0009-0004-8758-6442
+    username: ~Srinivasarao_Daruna1
+  - dblp_id: https://dblp.org/pid/302/4731
+    emails: shivanshugupta1995@gmail.com
+    first_name: Shivanshu
+    google_scholar_id: https://scholar.google.com/citations?user=OtlUDs8AAAAJ&hl=en
+    homepage: https://shivanshu-gupta.github.io
+    institution: University of California, Irvine
+    last_name: Gupta
+    name: Shivanshu Gupta
+    semantic_scholar_id: https://www.semanticscholar.org/author/Shivanshu-Gupta/1698760333
+    username: ~Shivanshu_Gupta2
+  - dblp_id: https://dblp.org/pid/48/4618
+    emails: naoya.inoue.lab@gmail.com
+    first_name: Naoya
+    google_scholar_id: https://scholar.google.co.jp/citations?hl=en&user=lvvDz-IAAAAJ
+    homepage: https://naoya-i.info/
+    institution: RIKEN and Japan Advanced Institute of Science and Technology
+    last_name: Inoue
+    name: Naoya Inoue
+    semantic_scholar_id: https://www.semanticscholar.org/author/Naoya-Inoue/32427616
+    username: ~Naoya_Inoue1
+  - dblp_id: https://dblp.org/pid/94/11232
+    emails: urikacid@gmail.com
+    first_name: Uri
+    google_scholar_id: https://scholar.google.com/citations?user=DkQ5W4wAAAAJ&hl=en
+    homepage: https://katzurik.github.io/
+    institution: Bar-Ilan University
+    last_name: Katz
+    name: Uri Katz
+    semantic_scholar_id: https://www.semanticscholar.org/author/Uri-Katz/2066175565
+    username: ~Uri_Katz1
+  - dblp_id: https://dblp.org/pid/294/7594
+    emails: arl122@pitt.edu
+    first_name: Arun Balajiee
+    google_scholar_id: https://scholar.google.com/citations?user=MqjEyoIAAAAJ&hl=en
+    homepage: https://a2un.github.io
+    institution: University of Pittsburgh
+    last_name: Lekshmi Narayanan
+    name: Arun Balajiee Lekshmi Narayanan
+    orcid: https://orcid.org/0000-0002-7735-5008
+    semantic_scholar_id: https://www.semanticscholar.org/author/2111957014
+    username: ~Arun_Balajiee_Lekshmi_Narayanan1
+  - dblp_id: https://dblp.org/pid/10/2450
+    emails: dliebling@google.com
+    first_name: Daniel
+    google_scholar_id: https://scholar.google.com/citations?user=6mERkvAAAAAJ&hl=en&oi=ao
+    homepage: https://liebling.org
+    institution: Google
+    last_name: Liebling
+    middle_name: J.
+    name: Daniel J. Liebling
+    orcid: https://orcid.org/0000-0002-2643-5657
+    semantic_scholar_id: https://www.semanticscholar.org/author/Daniel-J.-Liebling/1724850
+    username: ~Daniel_J._Liebling1
+  - dblp_id: https://dblp.org/pid/205/9052
+    emails: enoriega@arizona.edu
+    first_name: Enrique
+    google_scholar_id: https://scholar.google.com/citations?user=s7Kx6H8AAAAJ&hl=en&authuser=1
+    institution: University of Arizona
+    last_name: Noriega-Atala
+    name: Enrique Noriega-Atala
+    orcid: https://orcid.org/0000-0001-7150-2989
+    semantic_scholar_id: https://www.semanticscholar.org/author/Enrique-Noriega-Atala/1404937995
+    username: ~Enrique_Noriega-Atala1
+  - dblp_id: https://dblp.org/pid/311/5080.html
+    emails: zaynesprague@utexas.edu
+    first_name: Zayne
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=abBYW0oAAAAJ
+    homepage: https://zaynesprague.com/
+    institution: University of Texas at Austin
+    last_name: Sprague
+    middle_name: Rea
+    name: Zayne Rea Sprague
+    username: ~Zayne_Rea_Sprague1
+  - dblp_id: https://dblp.org/pid/313/4078
+    emails: rosni@ifi.uzh.ch
+    first_name: Rosni
+    google_scholar_id: https://scholar.google.com/citations?user=eR9zhxkAAAAJ&hl=en
+    homepage: https://rosnikv.github.io/
+    last_name: Vasu
+    name: Rosni Vasu
+    username: ~Rosni_Vasu1
+  role: Reviewers
+  type: name_block
