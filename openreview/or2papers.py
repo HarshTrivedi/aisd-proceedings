@@ -17,7 +17,7 @@ from util import *
 import openreview.api
 
 
-def main(username, password, venue, download_all, download_pdfs):
+def main(username, password, venue, track, download_all, download_pdfs):
     try:
         client_acl_v2 = openreview.api.OpenReviewClient(
             baseurl="https://api2.openreview.net", username=username, password=password
@@ -45,7 +45,10 @@ def main(username, password, venue, download_all, download_pdfs):
     if not os.path.exists(attachments_folder):
         os.mkdir(attachments_folder)
 
-    submissions = client_acl_v2.get_all_notes(content={ 'venueid': venue}, details='replies')
+    content = {'venueid': venue}
+    if track:
+        content['track'] = track
+    submissions = client_acl_v2.get_all_notes(content=content, details='replies')
     if len(submissions) <= 0:
         print("No submissions found. Please double check your venue ID and/or permissions to view the submissions")
 
@@ -193,6 +196,12 @@ if __name__ == "__main__":
         help="OpenReview venue ID, found in the URL https://openreview.net/group?id=<VENUE ID>",
     )
     parser.add_argument(
+        "--track",
+        type=str,
+        default=None,
+        help="Optional track to filter submissions (e.g., 'Archival regular').",
+    )
+    parser.add_argument(
         "--all",
         action="store_true",
         help="If set, downloads all papers in the OpenReview venue.",
@@ -203,4 +212,4 @@ if __name__ == "__main__":
         help="If set, downloads PDFs.",
     )
     args = parser.parse_args()
-    main(args.username, args.password, args.venue, args.all, args.pdfs)
+    main(args.username, args.password, args.venue, args.track, args.all, args.pdfs)
