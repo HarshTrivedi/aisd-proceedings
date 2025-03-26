@@ -34,6 +34,13 @@ cp papers.yml examples/aisd/papers.yml
 # Check paper PDFs
 ## First, manually make sure none of them are review versions, and then manually for each paper run:
 aclpubcheck --paper_type other examples/aisd/papers/{NUMBER}.pdf
+# aclpubcheck --paper_type other examples/aisd/papers/10.pdf
+# aclpubcheck --paper_type other examples/aisd/papers/17.pdf
+# aclpubcheck --paper_type other examples/aisd/papers/18.pdf
+# aclpubcheck --paper_type other examples/aisd/papers/2.pdf
+# aclpubcheck --paper_type other examples/aisd/papers/21.pdf
+# aclpubcheck --paper_type other examples/aisd/papers/24.pdf
+# aclpubcheck --paper_type other examples/aisd/papers/8.pdf
 
 # Update all fields in all text and yaml files examples/aisd/papers/ in manually.
 
