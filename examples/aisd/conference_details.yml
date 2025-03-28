@@ -8,9 +8,21 @@ end_date: 2025-05-03
 isbn: TODO
 location: Albuquerque, New Mexico, USA
 editors:
-  - first_name: TODO
-    last_name: TODO
-  - first_name: TODO
-    last_name: TODO
+  - first_name: Peter
+    last_name: Jansen
+  - first_name: Bhavana
+    last_name: Dalvi Mishra
+  - first_name: Harsh
+    last_name: Trivedi
+  - first_name: Bodhisattwa
+    last_name: Prasad Majumder
+  - first_name: Tom
+    last_name: Hope
+  - first_name: Tushar
+    last_name: Khot
+  - first_name: Doug
+    last_name: Downey
+  - first_name: Eric
+    last_name: Horvitz
 publisher: Association for Computational Linguistics
 #watermark_book_title: Proceedings of the 21th Annual Meeting of the\\ Special Interest Group on Discourse and Dialogue

@@ -4,11 +4,11 @@
 
 - end_time: 2025-05-03 09:45:00
   start_time: 2025-05-03 09:00:00
-  title: Invited Speaker Talk 1
+  title: Invited Speaker Talk "TODO"
 
 - end_time: 2025-05-03 10:30:00
   start_time: 2025-05-03 09:45:00
-  title: Invited Speaker Talk 2
+  title: Invited Speaker Talk "TODO"
 
 - end_time: 2025-05-03 11:00:00
   start_time: 2025-05-03 10:30:00
@@ -16,19 +16,19 @@
 
 - end_time: 2025-05-03 11:45:00
   start_time: 2025-05-03 11:00:00
-  title: Invited Speaker - Talk 3
+  title: Invited Speaker - Talk "TODO"
 
 - end_time: 2025-05-03 12:00:00
   start_time: 2025-05-03 11:45:00
-  title: Oral Presentation TBD
+  title: 'Oral Presentation "LLM-Assisted Translation of Legacy FORTRAN Codes to C++: A Cross-Platform Study" (Best Paper)'
 
 - end_time: 2025-05-03 12:15:00
   start_time: 2025-05-03 12:00:00
-  title: Oral Presentation TBD
+  title: 'Oral Presentation "Scideator: Iterative Human-LLM Scientific Idea Generation and Novelty Evaluation Grounded in Research-Paper Facet Recombination"'
 
 - end_time: 2025-05-03 12:30:00
   start_time: 2025-05-03 12:15:00
-  title: Oral Presentation TBD
+  title: 'Oral Presentation "What Can Large Language Models Do for Sustainable Food?"'
 
 - end_time: 2025-05-03 14:00:00
   start_time: 2025-05-03 12:30:00
@@ -36,19 +36,19 @@
 
 - end_time: 2025-05-03 14:45:00
   start_time: 2025-05-03 14:00:00
-  title: Invited Speaker - TBD
+  title: Invited Speaker - Talk "TODO"
 
 - end_time: 2025-05-03 15:00:00
   start_time: 2025-05-03 14:45:00
-  title: Oral Presentation TBD
+  title: 'Oral Presentation "Language Modeling by Language Models with Genesys"'
 
 - end_time: 2025-05-03 15:15:00
   start_time: 2025-05-03 15:00:00
-  title: Oral Presentation TBD
+  title: 'Oral Presentation "MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses"'
 
 - end_time: 2025-05-03 15:30:00
   start_time: 2025-05-03 15:15:00
-  title: Oral Presentation TBD
+  title: 'Oral Presentation "Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias"'
 
 - end_time: 2025-05-03 16:00:00
   start_time: 2025-05-03 15:30:00
