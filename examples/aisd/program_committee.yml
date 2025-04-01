@@ -101,6 +101,28 @@
     username: ~Peter_Jansen1
   role: Area Chairs
 - entries:
+  - dblp_id: https://dblp.org/pid/86/1950-1
+    emails: sanyal.soumya8@gmail.com
+    first_name: Soumya
+    google_scholar_id: https://scholar.google.co.in/citations?user=KvaizyQAAAAJ&hl=en
+    homepage: https://soumyasanyal.github.io/
+    last_name: Sanyal
+    name: Soumya Sanyal
+    semantic_scholar_id: https://www.semanticscholar.org/author/Soumya-Sanyal/3313909
+    username: ~Soumya_Sanyal1
+  - dblp_id: https://dblp.org/pid/89/5992-39
+    emails: harry.zhang@drexel.edu
+    first_name: Li
+    google_scholar_id: https://scholar.google.com/citations?user=_VLzlBIAAAAJ
+    homepage: https://zharry29.github.io/
+    institution: Drexel University
+    last_name: Zhang
+    name: Li Zhang
+    semantic_scholar_id: https://www.semanticscholar.org/author/72436283
+    username: ~Li_Zhang22
+  role: Declined Reviewers
+  type: name_block
+- entries:
   - dblp_id: https://dblp.org/pid/262/6003
     emails: jinheon.baek@kaist.ac.kr
     first_name: Jinheon
