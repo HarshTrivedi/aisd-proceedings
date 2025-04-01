@@ -8,7 +8,7 @@
   # chair: Chair 1
 
 - title: Keynote Talk 2 # AI Plays Medicinal Chemist and Material Scientist
-  abstract_file: invited2.tex
+  # abstract_file: invited2.tex
   speaker_name: Heng Ji
   institution: University of Illinois Urbana-Champaign
   bio_file: invited2_bio.tex
