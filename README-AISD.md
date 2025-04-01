@@ -47,6 +47,8 @@ aclpubcheck --paper_type other examples/aisd/papers/{NUMBER}.pdf
 # Generate proceedings
 ./bin/generate examples/aisd --proceedings --overwrite # The output will be in outputs/. Check outputs/proceedings.pdf
 
-# Compress, upload, and share with conf.
-zip -r AISD_data.tgz output/
+# Upload to NAACL repo
+rm -rf ../AISD/output
+cp -r output ../AISD/output
+cp output/proceedings.pdf ../AISD/  # assuming ../AISD is where that repo is
 ```
