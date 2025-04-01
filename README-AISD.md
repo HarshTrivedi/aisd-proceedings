@@ -51,4 +51,5 @@ aclpubcheck --paper_type other examples/aisd/papers/{NUMBER}.pdf
 rm -rf ../AISD/output
 cp -r output ../AISD/output
 cp output/proceedings.pdf ../AISD/  # assuming ../AISD is where that repo is
+# ^ commit and push
 ```
