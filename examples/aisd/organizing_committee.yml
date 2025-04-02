@@ -9,7 +9,7 @@
     title: Director of Semantic Scholar
   - first_name: Tom
     last_name: Hope
-    institution: Hebrew University of Jerusalem / Allen Institute for Artificial Intelligence
+    institution: Allen Institute for Artificial Intelligence / Hebrew University of Jerusalem
     title: Assistant Professor / Research Scientist
   - first_name: Eric
     last_name: Horvitz
@@ -21,7 +21,7 @@
     title: Associate Professor / Research Scientist
   - first_name: Tushar
     last_name: Khot
-    institution: Allen Institute for Artificial Intelligence
+    institution: Google DeepMind
     title: Lead Research Scientist
   - first_name: Bodhisattwa Prasad
     last_name: Majumder
