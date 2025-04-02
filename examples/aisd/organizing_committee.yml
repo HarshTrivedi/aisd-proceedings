@@ -1,34 +1,34 @@
 - members:
+  - first_name: Bhavana Dalvi
+    last_name: Mishra
+    institution: Allen Institute for Artificial Intelligence
+    title: Lead Research Scientist
+  - first_name: Doug
+    last_name: Downey
+    institution: Allen Institute for Artificial Intelligence
+    title: Director of Semantic Scholar
+  - first_name: Tom
+    last_name: Hope
+    institution: Hebrew University of Jerusalem / Allen Institute for Artificial Intelligence
+    title: Assistant Professor / Research Scientist
   - first_name: Eric
     last_name: Horvitz
     institution: Microsoft
     title: Chief Scientific Officer
-  - first_name: Doug
-    last_name: Downey
-    institution: Ai2
-    title: Director of Semantic Scholar
-  - first_name: Tom
-    last_name: Hope
-    institution: Hebrew University of Jerusalem (HUJI) / Ai2
-    title: Assistant Professor / Research Scientist
+  - first_name: Peter
+    last_name: Jansen
+    institution: University of Arizona / Allen Institute for Artificial Intelligence
+    title: Associate Professor / Research Scientist
   - first_name: Tushar
     last_name: Khot
-    institution: Ai2
-    title: Lead Research Scientist
-  - first_name: Bhavana Dalvi
-    last_name: Mishra
-    institution: Ai2
+    institution: Allen Institute for Artificial Intelligence
     title: Lead Research Scientist
   - first_name: Bodhisattwa Prasad
     last_name: Majumder
-    institution: Ai2
+    institution: Allen Institute for Artificial Intelligence
     title: Research Scientist
   - first_name: Harsh
     last_name: Trivedi
-    institution: Stony Brook University
+    institution: Allen Institute for Artificial Intelligence
     title: Research Scientist
-  - first_name: Peter
-    last_name: Jansen
-    institution: University of Arizona
-    title: Associate Professor
   role: Organizers
